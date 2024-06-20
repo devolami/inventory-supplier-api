@@ -54,7 +54,7 @@
 
 8. **Create a superuser**:
     ```bash
-    python manage.py create_superuser
+    python manage.py createsuperuser
     ```
     - Follow the prompts to create a super user.
 
