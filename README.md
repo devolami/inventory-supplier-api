@@ -70,3 +70,5 @@
 11. **Read detailed documentation and test endpoints**:
     - Swagger: [http://127.0.0.1:8000/swagger](http://127.0.0.1:8000/swagger)
     - ReDoc: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
+
+## Author: Muhammed Abdulganiyy
