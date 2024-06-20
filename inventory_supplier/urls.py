@@ -6,11 +6,11 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Snippets API",
+        title="Online Store Inventory and Supplier Management API",
         default_version="v1",
-        description="Test description",
+        description="The Inventory and Supplier Management API is designed to streamline and manage the inventory and supplier operations of an online store. This API supports various internal systems, including front-end interfaces and inventory tracking systems, ensuring efficient handling of inventory and supplier data.",
         terms_of_service="https://www.google.com/policies/terms/",
-        contact=openapi.Contact(email="contact@snippets.local"),
+        contact=openapi.Contact(email="muhacodingresources@gmail.com"),
         license=openapi.License(name="BSD License"),
     ),
     public=True,
